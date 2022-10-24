@@ -10,6 +10,9 @@ Built a Password generator using HTML, CSS and JavaScript 🌟
 
 3. Gives an option to include uppercase letters, lowercase letters, symbols and numbers.
 
+Video Demo: 
+https://user-images.githubusercontent.com/70227643/197596821-536ad3e5-5025-42b0-b42f-d2ee2bb2c301.mp4
+
 Try it -> [Live Site](https://uday03meh-password-generator.netlify.app/)
 
 <a href="https://uday03meh-password-generator.netlify.app/"><img src="https://user-images.githubusercontent.com/59679281/196033133-6e7bc851-c886-4497-b063-cb8c1d1f034c.png" alt="screenshot"></a>
